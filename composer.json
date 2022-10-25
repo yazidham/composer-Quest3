@@ -1,0 +1,17 @@
+{
+    "name": "yazid/composer-quest3",
+    "autoload": {
+        "psr-4": {
+            "Yazid\\ComposerQuest3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yazidham",
+            "email": "79407250+yazidham@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
